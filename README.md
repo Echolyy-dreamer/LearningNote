@@ -1,7 +1,7 @@
 
 # RDS Multi-AZ vs. Cluster vs. Aurora: The Deep Dive
 
-## 🚀 Preface: The $100,000 Interview Question
+## 🚀 Preface: The Question
 
 > **"Since both RDS Multi-AZ and Aurora use physical replication, why can Aurora failover in seconds while RDS still takes minutes?"**
 
